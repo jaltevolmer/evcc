@@ -534,6 +534,7 @@ export enum SMART_COST_TYPE {
   CO2 = "co2",
   PRICE_DYNAMIC = "pricedynamic",
   PRICE_FORECAST = "priceforecast",
+  PRICE_STATIC = "pricestatic",
 }
 
 export enum LENGTH_UNIT {
