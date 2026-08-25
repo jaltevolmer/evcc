@@ -1625,7 +1625,7 @@
     "meterstop": "Mätare stopp",
     "odometer": "Mätarställning",
     "price": "Kostnad",
-    "soc": "Fordon SoC",
+    "soc": "Laddning",
     "started": "Start-tid",
     "title": "Laddning"
   },
@@ -1718,6 +1718,9 @@
     "vehicle": "Fordon"
   },
   "settings": {
+    "dateFormat": {
+      "label": "Datumformat"
+    },
     "deviceInfo": "Inställningar du gör här påverkar endast denna enhet.",
     "fullscreen": {
       "enter": "Till helskärmsläge",
